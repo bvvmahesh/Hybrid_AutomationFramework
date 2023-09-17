@@ -1,4 +1,4 @@
-package Hybrid.Automation_Framework;
+package Hybrid_Framework;
 
 import java.time.Duration;
 import java.util.List;
