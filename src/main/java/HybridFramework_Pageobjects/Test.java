@@ -1,4 +1,4 @@
-package Hybrid_Framework;
+package HybridFramework_Pageobjects;
 
 public class Test {
 
